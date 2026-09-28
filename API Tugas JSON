@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "nama": "Caffè Latte",
+    "deskripsiSingkat": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè ...",
+    "deskripsiLengkap": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "foto": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "2",
+    "nama": "Cappuccino",
+    "deskripsiSingkat": "Espresso with steamed milk, topped with a deep layer of foam.",
+    "deskripsiLengkap": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. An alchemy of barista artistry and craft.",
+    "foto": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "3",
+    "nama": "Caffè Mocha",
+    "deskripsiSingkat": "Espresso with bittersweet mocha sauce and steamed milk, topped with...",
+    "deskripsiLengkap": "Our rich, full-bodied espresso combined with bittersweet mocha sauce and steamed milk, then topped with sweetened whipped cream.",
+    "foto": "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "4",
+    "nama": "Caramel Macchiato",
+    "deskripsiSingkat": "Espresso combined with vanilla-flavoured syrup, milk and cara...",
+    "deskripsiLengkap": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+    "foto": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "5",
+    "nama": "Vanilla Sweet Cream Cold Brew",
+    "deskripsiSingkat": "Just before serving, our slow-steeped...",
+    "deskripsiLengkap": "Our slow-steeped custom blend of cold brew coffee accented with vanilla and topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+    "foto": "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?auto=format&fit=crop&w=800&q=80"
+  }
+]
